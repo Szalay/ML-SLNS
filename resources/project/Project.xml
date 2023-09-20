@@ -34,6 +34,13 @@
                 </Category>
             </Info>
         </File>
+        <File Location="SL.m">
+            <Info>
+                <Category UUID="FileClassCategory">
+                    <Label UUID="design"/>
+                </Category>
+            </Info>
+        </File>
         <File Location="SLNS.slx">
             <Info>
                 <Category UUID="FileClassCategory">
