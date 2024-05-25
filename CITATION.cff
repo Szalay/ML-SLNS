@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+title: >-
+  Nonlinear PMSM Model Implementation in MATLAB-Simulink for Sensorless Polarity Detection
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: István
+    family-names: Szalay
+  - given-names: Dénes
+    family-names: Fodor
+identifiers:
+  - type: doi
+    value: 10.1109/PEMC51159.2022.9962876
+preferred-citation:
+  type: conference-paper
+  title: "Nonlinear PMSM Model Implementation in MATLAB-Simulink for Sensorless Polarity Detection"
+  authors:
+  - family-names: "Szalay"
+    given-names: "István"
+  - family-names: "Fodor"
+    given-names: "Dénes"
+  doi: "10.1109/EDPE58625.2023.10273864"
+  collection-title: "2023 International Conference on Electrical Drives and Power Electronics (EDPE)"
+  isbn: 979-8-3503-2275-0
+  issn: 2770-7652
+  keywords:
+  - Software packages
+  - Simulation
+  - Predictive models
+  - Mathematical models
+  - Power electronics
+  - Permanent magnets
+  - Numerical models
+  - permanent magnet synchronous motor
+  - sensorless control
+  - initial position and polarity detection
+  location: 
+    name: "The High Tatras, Slovakia"
+  year: 2023
+
+
+
+
+
+
