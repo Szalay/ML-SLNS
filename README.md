@@ -13,8 +13,8 @@ Open the project to ensure that all the files are on the MATLAB path.
 ```
 ├── MeasurementData.mat
 ```
-It containts two data structs: `SM` for the sinusoidal data and `PM` for the 
-square-wave data.
+It containts three data structs: `NM` (north pole) and `SM` (south pole) for the 
+sinusoidal data and `PM` for the square-wave data.
 
 ## Model library
 ```
